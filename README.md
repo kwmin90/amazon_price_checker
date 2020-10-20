@@ -1,3 +1,3 @@
 # amazon_price_checker
 
-playing around with pupeteer.
+playing around with pupeteer and nodemailer.
